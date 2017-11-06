@@ -4,12 +4,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-#### list demo
+## list demo
 1. item one
 2. item two
 3. item three
 
-## another list demo
+### another list demo
 * here one
 * here two
 * here three
