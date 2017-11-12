@@ -1,5 +1,3 @@
-Syntax highlighted code block
-
 # 模擬每月存入一萬元，買賣 0050
 
 <br/>
