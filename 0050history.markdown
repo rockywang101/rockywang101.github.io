@@ -7,8 +7,6 @@ Syntax highlighted code block
 ### 每 30 天後增加一萬可以買股
 ### 依大盤 K9 < 20 買入，K9 > 80 賣出
 ### 尚未加入配股配息計算
-### 因證交所與YAHOO少數資料不相同，與 Yahoo K9 值會有些微出入
-### 比如 106/09/21 的最高價，yahoo 為 10600.34，但證交所的為 10603.08
 
 <pre>
  92/07/08  83.13 	當日價格: 42.00	沒有票股在手上
@@ -1566,6 +1564,10 @@ Syntax highlighted code block
 
 最後總獲利 -67363 
 </pre>
+
+
+### 因證交所與YAHOO少數資料不相同，與 Yahoo K9 值會有些微出入
+### 比如 106/09/21 的最高價，yahoo 為 10600.34，但證交所的為 10603.08
 
 
 <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=rockywang101.github.io/&digit=style/plain/5/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
